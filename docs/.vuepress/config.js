@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/fore-end-document/',
+    base: '/Vimalate/',
     title: '博客首页', // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
     description: 'Vimalakirti的前端记录', // meta 中的描述文字，用于SEO
     // 注入到当前页面的 HTML <head> 中的标签
@@ -171,6 +171,8 @@ module.exports = {
                         ['Other-Library/移动端适配', '移动端适配'],
                         ['Other-Library/移动端常见兼容问题', '移动端常见兼容问题'],
                         ['Other-Library/工具函数', '工具函数'],
+                        ['Other-Library/去掉那些if else', '去掉那些if else'],
+                        ['Other-Library/axios.all和axios.spread', 'axios.all和axios.spread'],
                     ]
                 },
                 {
@@ -196,6 +198,7 @@ module.exports = {
                         ['Other-Library/skill/项目利器', '前端常用库'],
                         ['Other-Library/skill/vscode常见操作', 'vscode常见操作'],
                         ['VUE-Library/self', 'self'],
+                        ['Other-Library/skill/vscode那些老板键', 'vscode那些老板键'],
                     ]
                 },
 
@@ -262,7 +265,12 @@ module.exports = {
                     ['507-完美数', '507-完美数'],
                     ['509-斐波那契数列', '509-斐波那契数列'],
                     ['520-检测大写字母', '520-检测大写字母'],
-                    ['532-数组中的K-diff数对', '532-数组中的K-diff数对'],
+                    ['566-重塑矩阵', '566-重塑矩阵'],
+                    ['581-最短无序连续子数组', '581-最短无序连续子数组'],
+                    ['605-种花问题', '605-种花问题'],
+                    ['628-三个数的最大乘积', '628-三个数的最大乘积'],
+                    ['674-最长连续递增序列', '674-最长连续递增序列'],
+                    ['717-1比特与2比特字符', '717-1比特与2比特字符'],
                 ]
             }, ]
             //...可添加多个不同的侧边栏，不同页面会根据路径显示不同的侧边栏
